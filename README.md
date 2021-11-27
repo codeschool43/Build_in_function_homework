@@ -57,7 +57,7 @@ Use the pow function.
 Create a variable "n"  and assign it the value of the 3.\
 Create a variable "x"  and assign it the value of the 6.\
 
-Calculate the value: <img src="https://latex.codecogs.com/gif.latex?\{x}^{n}+{n}^{x}">.\
+Calculate the value: <img src="https://latex.codecogs.com/gif.latex?\x^{n}+n^{x}">.\
 Assign a result to "answer"\
 Use the pow function
 
@@ -87,7 +87,7 @@ Use the round function
 
 Create a variable "x"  and assign it the value of the 5.\
 Create a variable "y"  and assign it the value of the 2.\
-Calculate the value: <img src="https://latex.codecogs.com/gif.latex?\{x}^{2}+6{x}^{3}+3xy">.\
+Calculate the value: <img src="https://latex.codecogs.com/gif.latex?\x^{2}+6x^{3}+3xy">.\
 Assign a result to "answer"\
 Use the pow function
 
