@@ -1,1 +1,2 @@
-[build_func02.py](https://github.com/codeschool43/Build_in_function_homework#build_func01)
+# the task condition is placed in the README file
+#ttps://github.com/codeschool43/Build_in_function_homework#build_func02
