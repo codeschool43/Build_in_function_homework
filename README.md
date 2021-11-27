@@ -2,7 +2,7 @@
 
 ## build_func01
 
-Create a variable "number"  and assign it the value of the -8.
+Create a variable "number"  and assign it the value of the -8.\
 Find the absolute value of a "number" and assign to  "answer" 
 
 **Input**:*number*.\
@@ -14,7 +14,7 @@ Find the absolute value of a "number" and assign to  "answer"
 
 # build_func02
 
-Calculate the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\3(\frac{7}{5}-\frac{9}{4}">.
+Calculate the value of expression:  <img src="https://latex.codecogs.com/gif.latex?\3(\frac{7}{5}-\frac{9}{4}">.\
 Assign a result to "answer"
 
 **Input**:*expression*.\
