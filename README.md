@@ -71,7 +71,7 @@ Use the pow function
 # build_func06
 
 Create a variable "a"  and assign it the value of the 3.456.\
-Haqqiy sonni ikki hona birlikda yaxlitlang\
+Round the result to 2 decimal places.\
 Assign a result to "answer"\
 Use the round function
 
@@ -134,7 +134,7 @@ Create a variable "x"  and assign it the value of the 2.\
 Create a variable "y"  and assign it the value of the 4.\
 Calculate the value: <img src="https://latex.codecogs.com/gif.latex?\3y^{\frac{1}{2}}+x^{\frac{2}{3}}">.\
 Assign a result to "answer"\
-Ikki hona birlikda yaxlitlang\
+Round the result to 2 decimal places.\
 Use the pow function\
 Use the round function
 
