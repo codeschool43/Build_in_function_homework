@@ -37,3 +37,17 @@ Use the pow function
 |   **Input**   |   **Output**    |
 |---------------|-----------------|
 |3.05           |60.75            |
+
+# build_func04
+
+Create a variable "n"  and assign it the value of the 4.\
+Calculate the value: <img src="https://latex.codecogs.com/gif.latex?\(\frac{2+n}{3})^{2}">.\
+Assign a result to "answer".\
+Use the pow function.
+
+**Input**:*n*.\
+**Output**: *answer*.
+
+|   **Input**   |   **Output**    |
+|---------------|-----------------|
+|4              |4.0              |
